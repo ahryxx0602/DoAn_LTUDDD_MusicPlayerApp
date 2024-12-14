@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938649880840",
+    "project_id": "spotlightmusic-30927",
+    "storage_bucket": "spotlightmusic-30927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938649880840:android:7c988fdd2ec4b8ee8204bd",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBnWrKzq4vOygHIak7_PeeYd1eXRiwv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
